@@ -16,7 +16,7 @@
     "@polywrap/client-js": "~0.12.0",
     "@polywrap/plugin-js": "~0.12.0",
     "@polywrap/result": "~0.12.0",
-    "axios": "^0.26.0",
+    "axios": "^1.13.5",
     "cheerio": "^1.0.0-rc.12",
     "figlet": "~1.6.0",
     "fuse.js": "^6.6.2",
